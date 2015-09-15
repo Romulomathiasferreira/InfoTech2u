@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Title of the document</title>
+	<script src="https://cdn.firebase.com/js/client/2.2.9/firebase.js"></script>
+	<script>
+		var Firebase = require("firebase");
+		var myFirebaseRef = new Firebase("https://grupomuscular.firebaseio.com/");
+
+		myFirebaseRef.createUser({
+		  email    : "romulomathiasferreira@outlook.com",
+		  password : "q1w2e3r4"
+		}, function(error, userData) {
+		  if (error) {
+		    console.log("Error creating user:", error);
+		  } else {
+		    console.log("Successfully created user account with uid:", userData.uid);
+		  }
+		});
+
+		
+	</script>
+</head>
+
+<body>
+Content of the document......
+</body>
+
+</html>

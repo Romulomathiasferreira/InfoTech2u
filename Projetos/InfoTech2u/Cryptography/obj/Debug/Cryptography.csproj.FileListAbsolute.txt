@@ -1,0 +1,10 @@
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\Cryptography\bin\Debug\Cryptography.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\Cryptography\bin\Debug\Cryptography.pdb
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\Cryptography\obj\Debug\Cryptography.csprojResolveAssemblyReference.cache
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\Cryptography\obj\Debug\Cryptography.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\Cryptography\obj\Debug\Cryptography.pdb
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\Cryptography\bin\Debug\Cryptography.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\Cryptography\bin\Debug\Cryptography.pdb
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\Cryptography\obj\Debug\Cryptography.csprojResolveAssemblyReference.cache
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\Cryptography\obj\Debug\Cryptography.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\Cryptography\obj\Debug\Cryptography.pdb

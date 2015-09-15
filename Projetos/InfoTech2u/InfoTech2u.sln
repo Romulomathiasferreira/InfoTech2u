@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirebaseTokenGenerator", "FirebaseTokenGenerator\FirebaseTokenGenerator.csproj", "{EDF6D0EC-8015-463C-9B3B-034EF0F897A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptography", "Cryptography\Cryptography.csproj", "{161F331B-FD59-4AB0-BC06-EE68BB9E1F48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF", "WCF\WCF.csproj", "{797C2A04-6630-4728-A3E9-17754AB12E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Born2TrainSiteWebAPI", "Born2TrainSiteWebAPI\Born2TrainSiteWebAPI.csproj", "{982D15D0-9B4E-4CBF-A3AC-524FCBDE479D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{797C2A04-6630-4728-A3E9-17754AB12E04} = {797C2A04-6630-4728-A3E9-17754AB12E04}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Born2TrainSystemWebAPI", "Born2TrainSystemWebAPI\Born2TrainSystemWebAPI.csproj", "{BA66F277-F78B-46D7-99D4-C7E649FA757E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{797C2A04-6630-4728-A3E9-17754AB12E04} = {797C2A04-6630-4728-A3E9-17754AB12E04}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financas", "Financas\Financas.csproj", "{69C07EC5-46DC-46E9-BE2F-ACDB348921D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF6D0EC-8015-463C-9B3B-034EF0F897A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF6D0EC-8015-463C-9B3B-034EF0F897A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF6D0EC-8015-463C-9B3B-034EF0F897A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF6D0EC-8015-463C-9B3B-034EF0F897A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161F331B-FD59-4AB0-BC06-EE68BB9E1F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161F331B-FD59-4AB0-BC06-EE68BB9E1F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161F331B-FD59-4AB0-BC06-EE68BB9E1F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161F331B-FD59-4AB0-BC06-EE68BB9E1F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{797C2A04-6630-4728-A3E9-17754AB12E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797C2A04-6630-4728-A3E9-17754AB12E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797C2A04-6630-4728-A3E9-17754AB12E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797C2A04-6630-4728-A3E9-17754AB12E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{982D15D0-9B4E-4CBF-A3AC-524FCBDE479D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982D15D0-9B4E-4CBF-A3AC-524FCBDE479D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982D15D0-9B4E-4CBF-A3AC-524FCBDE479D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982D15D0-9B4E-4CBF-A3AC-524FCBDE479D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA66F277-F78B-46D7-99D4-C7E649FA757E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA66F277-F78B-46D7-99D4-C7E649FA757E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA66F277-F78B-46D7-99D4-C7E649FA757E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA66F277-F78B-46D7-99D4-C7E649FA757E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C07EC5-46DC-46E9-BE2F-ACDB348921D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C07EC5-46DC-46E9-BE2F-ACDB348921D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C07EC5-46DC-46E9-BE2F-ACDB348921D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C07EC5-46DC-46E9-BE2F-ACDB348921D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

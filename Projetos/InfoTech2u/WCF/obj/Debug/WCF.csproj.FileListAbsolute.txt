@@ -1,0 +1,62 @@
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\WCF.dll.config
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\WCF.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\WCF.pdb
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\Cryptography.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\FirebaseTokenGenerator.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\FireSharp.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\FireSharp.Serialization.JsonNet.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\FireSharp.Serialization.ServiceStack.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\Microsoft.Threading.Tasks.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\Microsoft.Threading.Tasks.Extensions.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\Newtonsoft.Json.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\RestSharp.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\ServiceStack.Text.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\System.Net.Http.Extensions.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\System.Net.Http.Primitives.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\JWT.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\Cryptography.pdb
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\FirebaseTokenGenerator.pdb
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\Microsoft.Threading.Tasks.xml
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\Microsoft.Threading.Tasks.Extensions.xml
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\Newtonsoft.Json.xml
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\RestSharp.xml
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\ServiceStack.Text.xml
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\System.Net.Http.Extensions.xml
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\bin\System.Net.Http.Primitives.xml
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\obj\Debug\WCF.csproj.App.config
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\obj\Debug\WCF.csprojResolveAssemblyReference.cache
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\obj\Debug\WCF.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\WCF\obj\Debug\WCF.pdb
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\WCF.dll.config
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\WCF.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\WCF.pdb
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\Cryptography.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\FirebaseTokenGenerator.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\FireSharp.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\FireSharp.Serialization.JsonNet.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\FireSharp.Serialization.ServiceStack.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\Microsoft.Threading.Tasks.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\Newtonsoft.Json.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\RestSharp.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\ServiceStack.Text.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\System.Net.Http.Extensions.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\System.Net.Http.Primitives.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\JWT.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\Cryptography.pdb
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\FirebaseTokenGenerator.pdb
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\Microsoft.Threading.Tasks.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\Newtonsoft.Json.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\RestSharp.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\ServiceStack.Text.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\System.Net.Http.Extensions.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\bin\System.Net.Http.Primitives.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\obj\Debug\WCF.csproj.App.config
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\obj\Debug\WCF.csprojResolveAssemblyReference.cache
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\obj\Debug\WCF.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\WCF\obj\Debug\WCF.pdb

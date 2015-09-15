@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="RijndaelCryptography">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="entrada" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="chave" nillable="true" type="xs:base64Binary" />
+        <xs:element minOccurs="0" name="vetor" nillable="true" type="xs:base64Binary" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RijndaelCryptographyResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="RijndaelCryptographyResult" nillable="true" type="xs:base64Binary" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RijndaelDescryptography">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="entrada" nillable="true" type="xs:base64Binary" />
+        <xs:element minOccurs="0" name="chave" nillable="true" type="xs:base64Binary" />
+        <xs:element minOccurs="0" name="vetor" nillable="true" type="xs:base64Binary" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RijndaelDescryptographyResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="RijndaelDescryptographyResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AESCryptography">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="entrada" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="chave" nillable="true" type="xs:base64Binary" />
+        <xs:element minOccurs="0" name="vetor" nillable="true" type="xs:base64Binary" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AESCryptographyResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="AESCryptographyResult" nillable="true" type="xs:base64Binary" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AESDescryptography">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="entrada" nillable="true" type="xs:base64Binary" />
+        <xs:element minOccurs="0" name="chave" nillable="true" type="xs:base64Binary" />
+        <xs:element minOccurs="0" name="vetor" nillable="true" type="xs:base64Binary" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AESDescryptographyResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="AESDescryptographyResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DESCryptography">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="entrada" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="chave" nillable="true" type="xs:base64Binary" />
+        <xs:element minOccurs="0" name="vetor" nillable="true" type="xs:base64Binary" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DESCryptographyResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="DESCryptographyResult" nillable="true" type="xs:base64Binary" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DESDescryptography">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="entrada" nillable="true" type="xs:base64Binary" />
+        <xs:element minOccurs="0" name="chave" nillable="true" type="xs:base64Binary" />
+        <xs:element minOccurs="0" name="vetor" nillable="true" type="xs:base64Binary" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DESDescryptographyResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="DESDescryptographyResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="EncryptCryptographyService">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="entrada" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="EncryptCryptographyServiceResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="EncryptCryptographyServiceResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DecryptCryptographyService">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="entrada" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DecryptCryptographyServiceResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="DecryptCryptographyServiceResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

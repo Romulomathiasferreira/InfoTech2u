@@ -1,0 +1,18 @@
+R:\Users\cej8808\Downloads\firebase-token-generator-dotNet-master\firebase-token-generator-dotNet-master\FirebaseTokenGenerator\bin\Debug\FirebaseTokenGenerator.dll
+R:\Users\cej8808\Downloads\firebase-token-generator-dotNet-master\firebase-token-generator-dotNet-master\FirebaseTokenGenerator\bin\Debug\FirebaseTokenGenerator.pdb
+R:\Users\cej8808\Downloads\firebase-token-generator-dotNet-master\firebase-token-generator-dotNet-master\FirebaseTokenGenerator\bin\Debug\JWT.dll
+R:\Users\cej8808\Downloads\firebase-token-generator-dotNet-master\firebase-token-generator-dotNet-master\FirebaseTokenGenerator\obj\Debug\FirebaseTokenGenerator.csprojResolveAssemblyReference.cache
+R:\Users\cej8808\Downloads\firebase-token-generator-dotNet-master\firebase-token-generator-dotNet-master\FirebaseTokenGenerator\obj\Debug\FirebaseTokenGenerator.dll
+R:\Users\cej8808\Downloads\firebase-token-generator-dotNet-master\firebase-token-generator-dotNet-master\FirebaseTokenGenerator\obj\Debug\FirebaseTokenGenerator.pdb
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\FirebaseTokenGenerator\bin\Debug\FirebaseTokenGenerator.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\FirebaseTokenGenerator\bin\Debug\FirebaseTokenGenerator.pdb
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\FirebaseTokenGenerator\bin\Debug\JWT.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\FirebaseTokenGenerator\obj\Debug\FirebaseTokenGenerator.csprojResolveAssemblyReference.cache
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\FirebaseTokenGenerator\obj\Debug\FirebaseTokenGenerator.dll
+R:\Users\cej8808\documents\visual studio 2015\Projects\InfoTech2u\FirebaseTokenGenerator\obj\Debug\FirebaseTokenGenerator.pdb
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\FirebaseTokenGenerator\bin\Debug\FirebaseTokenGenerator.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\FirebaseTokenGenerator\bin\Debug\FirebaseTokenGenerator.pdb
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\FirebaseTokenGenerator\bin\Debug\JWT.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\FirebaseTokenGenerator\obj\Debug\FirebaseTokenGenerator.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\FirebaseTokenGenerator\obj\Debug\FirebaseTokenGenerator.pdb
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\InfoTech2u\FirebaseTokenGenerator\obj\Debug\FirebaseTokenGenerator.csprojResolveAssemblyReference.cache
