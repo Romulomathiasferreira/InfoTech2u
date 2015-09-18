@@ -1,0 +1,64 @@
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\FireBaseGenericServiceWebAPI.dll.config
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\FireBaseGenericServiceWebAPI.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\FireBaseGenericServiceWebAPI.pdb
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\FireSharp.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\FireSharp.Serialization.JsonNet.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\FireSharp.Serialization.ServiceStack.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\Microsoft.Threading.Tasks.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\Microsoft.Threading.Tasks.Extensions.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\Newtonsoft.Json.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\RestSharp.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\ServiceStack.Text.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Net.Http.Extensions.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Net.Http.Formatting.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Net.Http.Primitives.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Web.Http.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Web.Http.WebHost.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\Microsoft.Threading.Tasks.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\Microsoft.Threading.Tasks.Extensions.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\RestSharp.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\ServiceStack.Text.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Net.Http.Extensions.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Net.Http.Primitives.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\Newtonsoft.Json.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Net.Http.Formatting.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Web.Http.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Web.Http.WebHost.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\obj\Debug\FireBaseGenericServiceWebAPI.csproj.App.config
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\obj\Debug\FireBaseGenericServiceWebAPI.csprojResolveAssemblyReference.cache
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\obj\Debug\FireBaseGenericServiceWebAPI.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\obj\Debug\FireBaseGenericServiceWebAPI.pdb
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\FireBaseGenericServiceWebAPI.dll.config
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\FireBaseGenericServiceWebAPI.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\FireBaseGenericServiceWebAPI.pdb
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\FireSharp.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\FireSharp.Serialization.JsonNet.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\FireSharp.Serialization.ServiceStack.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\Microsoft.Threading.Tasks.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\RestSharp.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\ServiceStack.Text.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Net.Http.Extensions.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Net.Http.Primitives.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Web.Http.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\Microsoft.Threading.Tasks.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\RestSharp.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\ServiceStack.Text.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Net.Http.Extensions.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Net.Http.Primitives.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Web.Http.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\obj\Debug\FireBaseGenericServiceWebAPI.csproj.App.config
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\obj\Debug\FireBaseGenericServiceWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\obj\Debug\FireBaseGenericServiceWebAPI.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\FireBaseGenericServiceWebAPI\FireBaseGenericServiceWebAPI\obj\Debug\FireBaseGenericServiceWebAPI.pdb

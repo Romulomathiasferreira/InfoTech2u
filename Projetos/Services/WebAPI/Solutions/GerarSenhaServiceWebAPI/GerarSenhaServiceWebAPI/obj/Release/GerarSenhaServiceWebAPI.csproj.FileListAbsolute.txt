@@ -1,0 +1,28 @@
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\GerarSenhaServiceWebAPI.dll.config
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\GerarSenhaServiceWebAPI.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\GerarSenhaServiceWebAPI.pdb
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\Newtonsoft.Json.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\System.Net.Http.Formatting.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\System.Web.Http.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\System.Web.Http.WebHost.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\Newtonsoft.Json.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\System.Net.Http.Formatting.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\System.Web.Http.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\System.Web.Http.WebHost.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\obj\Release\GerarSenhaServiceWebAPI.csprojResolveAssemblyReference.cache
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\obj\Release\GerarSenhaServiceWebAPI.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\obj\Release\GerarSenhaServiceWebAPI.pdb
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\GerarSenhaServiceWebAPI.dll.config
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\GerarSenhaServiceWebAPI.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\GerarSenhaServiceWebAPI.pdb
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\System.Web.Http.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\System.Web.Http.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\obj\Release\GerarSenhaServiceWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\obj\Release\GerarSenhaServiceWebAPI.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\GerarSenhaServiceWebAPI\GerarSenhaServiceWebAPI\obj\Release\GerarSenhaServiceWebAPI.pdb

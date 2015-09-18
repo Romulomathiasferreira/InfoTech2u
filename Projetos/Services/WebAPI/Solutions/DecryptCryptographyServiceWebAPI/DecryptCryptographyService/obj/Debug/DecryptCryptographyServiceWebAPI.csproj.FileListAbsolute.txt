@@ -1,0 +1,64 @@
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\FireSharp.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\FireSharp.Serialization.JsonNet.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\FireSharp.Serialization.ServiceStack.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\Microsoft.Threading.Tasks.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\Microsoft.Threading.Tasks.Extensions.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\Newtonsoft.Json.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\RestSharp.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\ServiceStack.Text.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\System.Net.Http.Extensions.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\System.Net.Http.Formatting.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\System.Net.Http.Primitives.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\System.Web.Http.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\System.Web.Http.WebHost.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\Microsoft.Threading.Tasks.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\Microsoft.Threading.Tasks.Extensions.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\RestSharp.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\ServiceStack.Text.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\System.Net.Http.Extensions.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\System.Net.Http.Primitives.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\Newtonsoft.Json.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\System.Net.Http.Formatting.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\System.Web.Http.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\System.Web.Http.WebHost.xml
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\obj\Debug\DecryptCryptographyServiceWebAPI.csproj.App.config
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\obj\Debug\DecryptCryptographyServiceWebAPI.csprojResolveAssemblyReference.cache
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\DecryptCryptographyServiceWebAPI.dll.config
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\DecryptCryptographyServiceWebAPI.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\bin\DecryptCryptographyServiceWebAPI.pdb
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\obj\Debug\DecryptCryptographyServiceWebAPI.dll
+R:\Users\cej8808\Documents\Visual Studio 2015\Projects\InfoTech2uServicesWebAPI\DecryptCryptographyService\DecryptCryptographyService\obj\Debug\DecryptCryptographyServiceWebAPI.pdb
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\DecryptCryptographyServiceWebAPI.dll.config
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\DecryptCryptographyServiceWebAPI.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\DecryptCryptographyServiceWebAPI.pdb
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\FireSharp.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\FireSharp.Serialization.JsonNet.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\FireSharp.Serialization.ServiceStack.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\Microsoft.Threading.Tasks.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\Newtonsoft.Json.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\RestSharp.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\ServiceStack.Text.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\System.Net.Http.Extensions.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\System.Net.Http.Formatting.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\System.Net.Http.Primitives.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\System.Web.Http.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\System.Web.Http.WebHost.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\Microsoft.Threading.Tasks.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\RestSharp.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\ServiceStack.Text.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\System.Net.Http.Extensions.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\System.Net.Http.Primitives.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\Newtonsoft.Json.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\System.Net.Http.Formatting.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\System.Web.Http.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\bin\System.Web.Http.WebHost.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\obj\Debug\DecryptCryptographyServiceWebAPI.csproj.App.config
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\obj\Debug\DecryptCryptographyServiceWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\obj\Debug\DecryptCryptographyServiceWebAPI.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\DecryptCryptographyService\DecryptCryptographyService\obj\Debug\DecryptCryptographyServiceWebAPI.pdb
