@@ -1,0 +1,3 @@
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\ConsultaBancoCentralWebAPI\ConsultaBancoCentralWebAPI\obj\Release\ConsultaBancoCentralWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\ConsultaBancoCentralWebAPI\ConsultaBancoCentralWebAPI\obj\Release\ConsultaBancoCentralWebAPI.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\ConsultaBancoCentralWebAPI\ConsultaBancoCentralWebAPI\obj\Release\ConsultaBancoCentralWebAPI.pdb

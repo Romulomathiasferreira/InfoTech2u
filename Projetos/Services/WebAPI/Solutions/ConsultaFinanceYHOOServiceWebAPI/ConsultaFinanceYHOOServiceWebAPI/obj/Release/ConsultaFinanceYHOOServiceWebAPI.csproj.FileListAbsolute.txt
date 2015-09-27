@@ -1,0 +1,13 @@
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\ConsultaFinanceYHOOServiceWebAPI\ConsultaFinanceYHOOServiceWebAPI\bin\ConsultaFinanceYHOOServiceWebAPI.dll.config
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\ConsultaFinanceYHOOServiceWebAPI\ConsultaFinanceYHOOServiceWebAPI\bin\ConsultaFinanceYHOOServiceWebAPI.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\ConsultaFinanceYHOOServiceWebAPI\ConsultaFinanceYHOOServiceWebAPI\bin\ConsultaFinanceYHOOServiceWebAPI.pdb
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\ConsultaFinanceYHOOServiceWebAPI\ConsultaFinanceYHOOServiceWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\ConsultaFinanceYHOOServiceWebAPI\ConsultaFinanceYHOOServiceWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\ConsultaFinanceYHOOServiceWebAPI\ConsultaFinanceYHOOServiceWebAPI\bin\System.Web.Http.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\ConsultaFinanceYHOOServiceWebAPI\ConsultaFinanceYHOOServiceWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\ConsultaFinanceYHOOServiceWebAPI\ConsultaFinanceYHOOServiceWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\ConsultaFinanceYHOOServiceWebAPI\ConsultaFinanceYHOOServiceWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\ConsultaFinanceYHOOServiceWebAPI\ConsultaFinanceYHOOServiceWebAPI\bin\System.Web.Http.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\ConsultaFinanceYHOOServiceWebAPI\ConsultaFinanceYHOOServiceWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\ConsultaFinanceYHOOServiceWebAPI\ConsultaFinanceYHOOServiceWebAPI\obj\Release\ConsultaFinanceYHOOServiceWebAPI.dll
+C:\Users\RomuloInfoTech2u\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\ConsultaFinanceYHOOServiceWebAPI\ConsultaFinanceYHOOServiceWebAPI\obj\Release\ConsultaFinanceYHOOServiceWebAPI.pdb

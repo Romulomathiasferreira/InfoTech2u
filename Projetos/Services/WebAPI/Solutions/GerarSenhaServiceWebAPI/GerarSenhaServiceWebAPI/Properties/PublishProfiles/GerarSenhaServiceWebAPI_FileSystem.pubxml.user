@@ -10,13 +10,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/App_global.asax.compiled">
-      <publishTime>09/18/2015 19:20:15</publishTime>
+      <publishTime>09/19/2015 03:37:51</publishTime>
     </File>
     <File Include="bin/App_global.asax.dll">
-      <publishTime>09/18/2015 19:20:15</publishTime>
+      <publishTime>09/19/2015 03:37:51</publishTime>
     </File>
     <File Include="bin/GerarSenhaServiceWebAPI.dll">
-      <publishTime>09/18/2015 19:20:11</publishTime>
+      <publishTime>09/19/2015 03:37:46</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>09/18/2015 15:44:20</publishTime>
@@ -34,7 +34,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/18/2015 15:44:31</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>09/18/2015 19:20:13</publishTime>
+      <publishTime>09/19/2015 03:37:48</publishTime>
     </File>
     <File Include="Web.config">
       <publishTime>09/18/2015 19:20:12</publishTime>

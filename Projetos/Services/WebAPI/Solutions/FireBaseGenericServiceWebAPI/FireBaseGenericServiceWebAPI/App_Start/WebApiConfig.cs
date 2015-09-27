@@ -19,6 +19,8 @@ namespace FireBaseGenericServiceWebAPI
                 routeTemplate: "api/{controller}/{AuthSecret}/{BasePath}/{command}",
                 defaults: new { AuthSecret = RouteParameter.Optional, BasePath = RouteParameter.Optional, command = RouteParameter.Optional }
             );
+
+            GlobalConfiguration.Configuration.Formatters.Insert(0, new Util.JsonpFormatter());
         }
     }
 }

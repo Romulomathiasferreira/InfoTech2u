@@ -133,10 +133,14 @@
     <Compile Include="Models\ParametroEntreda.cs" />
     <Compile Include="Models\ParametroRetorno.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util\JsonpFormatter.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\DecryptCryptographyServiceWebAPI_FileSystem.pubxml" />
+    <None Include="Properties\PublishProfiles\DecryptCryptographyServiceWebAPI_FTP.pubxml">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

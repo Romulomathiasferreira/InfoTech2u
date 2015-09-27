@@ -19,6 +19,8 @@ namespace EncryptCryptographyServiceWebAPI
                 routeTemplate: "api/{controller}/{Entrada}",
                 defaults: new { Entrada = RouteParameter.Optional }
             );
+
+            GlobalConfiguration.Configuration.Formatters.Insert(0, new Util.JsonpFormatter());
         }
     }
 }

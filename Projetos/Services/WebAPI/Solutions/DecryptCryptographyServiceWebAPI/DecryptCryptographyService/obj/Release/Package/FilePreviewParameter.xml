@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="infotech2u-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\RomuloInfoTech2u\\Documents\\GitHub\\InfoTech2u\\Projetos\\Services\\WebAPI\\Solutions\\DecryptCryptographyServiceWebAPI\\DecryptCryptographyService\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\RomuloInfoTech2u\\Documents\\GitHub\\InfoTech2u\\Projetos\\Services\\WebAPI\\Solutions\\DecryptCryptographyServiceWebAPI\\DecryptCryptographyService\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
