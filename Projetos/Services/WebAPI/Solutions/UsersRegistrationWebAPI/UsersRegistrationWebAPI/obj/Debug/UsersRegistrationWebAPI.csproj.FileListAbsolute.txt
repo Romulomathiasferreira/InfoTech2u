@@ -26,3 +26,6 @@ C:\Users\Romulo\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\U
 C:\Users\Romulo\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\UsersRegistrationWebAPI\UsersRegistrationWebAPI\obj\Debug\UsersRegistrationWebAPI.dll
 C:\Users\Romulo\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\UsersRegistrationWebAPI\UsersRegistrationWebAPI\obj\Debug\UsersRegistrationWebAPI.pdb
 C:\Users\Romulo\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\UsersRegistrationWebAPI\UsersRegistrationWebAPI\obj\Debug\UsersRegistrationWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Romulo\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\UsersRegistrationWebAPI\UsersRegistrationWebAPI\bin\HtmlAgilityPack.dll
+C:\Users\Romulo\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\UsersRegistrationWebAPI\UsersRegistrationWebAPI\bin\HtmlAgilityPack.pdb
+C:\Users\Romulo\Documents\GitHub\InfoTech2u\Projetos\Services\WebAPI\Solutions\UsersRegistrationWebAPI\UsersRegistrationWebAPI\bin\HtmlAgilityPack.xml

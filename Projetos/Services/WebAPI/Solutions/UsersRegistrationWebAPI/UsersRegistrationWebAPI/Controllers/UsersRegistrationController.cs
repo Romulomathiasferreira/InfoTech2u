@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json.Linq;
+﻿using HtmlAgilityPack;
+using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -21,6 +22,32 @@ namespace UsersRegistrationWebAPI.Controllers
         {
             try
             {
+                
+                
+                HtmlWeb web = new HtmlWeb();
+                HtmlAgilityPack.HtmlDocument htmldoc = web.Load("https://www.bibliaonline.com.br/nvi/gn/6");
+                htmldoc.OptionFixNestedTags = true;
+                var navigator = (HtmlNodeNavigator)htmldoc.CreateNavigator();
+                string xpath = "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/article[1]/p[1]/span[1]";
+                string val = navigator.SelectSingleNode(xpath).Value;
+                
+
+               /* HtmlWeb web = new HtmlWeb();
+                HtmlDocument doc = web.Load("https://www.bibliaonline.com.br/nvi/gn/6");
+                int count = 0;
+                string data = "";
+                var output = doc.DocumentNode.SelectNodes("//div[@id='ChapterView']//span");
+
+                foreach (var item in output)
+                {
+                    count++;
+                    if (count == output.Count)
+                    {
+                        //data = item.Attributes["href"].Value;
+                        data = data + item.InnerText[count].ToString();
+                    }
+                }*/
+
                 User user = new User();
                 DateTime now = DateTime.Now;
                 
@@ -33,7 +60,8 @@ namespace UsersRegistrationWebAPI.Controllers
 
                 if (!String.IsNullOrWhiteSpace(passwordUser))
                 {
-                    var request = WebRequest.Create("http://localhost:53164/api/Encrypt/senhaTeste");
+                    //var request = WebRequest.Create("http://localhost:53164/api/Encrypt/senhaTeste");
+                    var request = WebRequest.Create("https://www.bibliaonline.com.br/acf/rm/2/2");
                     string passwordUserEncrypt;
                     var response = (HttpWebResponse)request.GetResponse();
 
