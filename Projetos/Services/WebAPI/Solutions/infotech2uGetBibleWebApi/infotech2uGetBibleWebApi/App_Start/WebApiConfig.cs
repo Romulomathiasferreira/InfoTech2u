@@ -16,8 +16,8 @@ namespace infotech2uGetBibleWebApi
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
-                routeTemplate: "api/{controller}/{idBook}/{initialsBook}/{amountChapterBook}/{amountVerseBook}/{idVersionBook}",
-                defaults: new { idBook = RouteParameter.Optional, initialsBook = RouteParameter.Optional, amountChapterBook = RouteParameter.Optional, amountVerseBook = RouteParameter.Optional, idVersionBook = RouteParameter.Optional }
+                routeTemplate: "api/{controller}/{idBook}/{initialsBook}/{amountChapterBook}/{amountVerseBook}/{idVersionBook}/{nameFile}/{versionDownload}",
+                defaults: new { idBook = RouteParameter.Optional, initialsBook = RouteParameter.Optional, amountChapterBook = RouteParameter.Optional, amountVerseBook = RouteParameter.Optional, idVersionBook = RouteParameter.Optional, nameFile = RouteParameter.Optional, versionDownload = RouteParameter.Optional }
             );
 
             GlobalConfiguration.Configuration.Formatters.Insert(0, new Utilities.JsonpFormatter());
