@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+        <meta charset="utf-8">
+        <title>Hope - Church Responsive HTML5 Template</title>
+
+        <meta name="description" content="Hope - Church Responsive HTML5 Template">
+        <meta name="keywords" content="god,curch,temple,christian,congregation,pray,faith,pastor,responsive,html5,flat,foundation,jquery,slider">
+        <meta name="author" content="Pistaciatheme">
+
+        <!-- Mobile Meta -->
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <!-- Plugins styles -->
+        <link rel="stylesheet" href="assets/css/plugins.css">
+
+        <!-- Template styles -->
+        <link rel="stylesheet" href="assets/css/backgrounds.css">
+        <link rel="stylesheet" href="assets/css/style-red.css">
+
+        <!-- Favicons -->
+        <link rel="shortcut icon" href="assets/img/ico/favicon.ico" type="image/x-icon" />
+        <link rel="apple-touch-icon" href="assets/img/ico/apple-touch-icon.png" />
+        <link rel="apple-touch-icon" sizes="57x57" href="assets/img/ico/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="assets/img/ico/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="76x76" href="assets/img/ico/apple-touch-icon-76x76.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="assets/img/ico/apple-touch-icon-114x114.png" />
+        <link rel="apple-touch-icon" sizes="120x120" href="assets/img/ico/apple-touch-icon-120x120.png" />
+        <link rel="apple-touch-icon" sizes="144x144" href="assets/img/ico/apple-touch-icon-144x144.png" />
+        <link rel="apple-touch-icon" sizes="152x152" href="assets/img/ico/apple-touch-icon-152x152.png" />
+
+        <!-- Google analytics code -->
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-51760200-7', 'auto');
+            ga('send', 'pageview');
+
+        </script>
+        <!-- end Google analytics code -->
+    </head>
+    <body id="pageTop" class="fixed-navbar">
+
+
+
+        <!-- ***** Theme switcher ***** -->
+        <div class="theme-switcher" id="themeSwitcher">
+            <a href="#" class="toggle-button"><i class="fa fa-gear"></i></a>
+
+            <div class="inner">
+                <h3>Color skin:</h3>
+                <ul class="colors">
+                    <li><a href="#" data-color="blue" class="color-blue"></a></li>
+                    <li><a href="#" data-color="green" class="color-green"></a></li>
+                    <li><a href="#" data-color="orange" class="color-orange"></a></li>
+                    <li><a href="#" data-color="purple" class="color-purple"></a></li>
+                    <li class="active"><a href="#" data-color="red" class="color-red"></a></li>
+                    <li><a href="#" data-color="yellow" class="color-yellow"></a></li>
+                </ul>
+                <h3>Fixed menu:</h3>
+                <input type="radio" checked class="fixedmenu" name="fixedmenu" value="1" id="fixed-navbar"><label for="fixed-navbar">On</label>
+                <input type="radio" class="fixedmenu" name="fixedmenu" value="0" id="no-fixed-navbar"><label for="no-fixed-navbar">Off</label>
+                <h3>Boxed layout:</h3>
+                <input type="radio" class="boxed-layout" name="boxed-layout" value="1" id="boxed-layout"><label for="boxed-layout">On</label>
+                <input type="radio" checked class="boxed-layout" name="boxed-layout" value="0" id="no-boxed-layout"><label for="no-boxed-layout">Off</label>
+            </div>
+        </div><!-- /.theme switcher -->
+
+
+
+        <!-- ***** Page loader ***** -->
+        <section class="page-loader" id="pageLoader">
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div><!-- /.spinner -->
+        </section><!-- /.page-loader -->
+
+
+
+        <!-- ***** Canvas ***** -->
+        <div class="off-canvas-wrap" data-offcanvas>
+
+            <div class="inner-wrap">
+
+                <!-- ***** Left off canvas ***** -->
+                <aside class="left-off-canvas-menu">
+                    <div class="row">
+                        <div class="favourites offcanvas">
+                            <div class="item">
+                                <div class="row">
+                                    <div class="small-4 columns">
+                                        <img alt="" src="assets/img/content/thumb28.jpg">
+                                    </div>
+                                    <div class="small-8 columns">
+                                        <h1>Nam felis diam, finibus sit amet arcu eu lorem ipsu</h1>
+                                        <ul class="stars">
+                                            <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                            <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                            <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                        </ul>
+                                        <a href="blog-single.html" class="btn-more">More</a>
+                                        <a href="#" class="btn-remove">Remove</a>
+                                    </div>
+                                </div>
+                            </div><!-- /.item -->
+                            <div class="item">
+                                <div class="row">
+                                    <div class="small-4 columns">
+                                        <img alt="" src="assets/img/content/thumb29.jpg">
+                                    </div>
+                                    <div class="small-8 columns">
+                                        <h1>Nam felis diam, finibus sit amet arcu eu lorem ipsu</h1>
+                                        <ul class="stars">
+                                            <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                            <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                            <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                        </ul>
+                                        <a href="blog-single.html" class="btn-more">More</a>
+                                        <a href="#" class="btn-remove">Remove</a>
+                                    </div>
+                                </div>
+                            </div><!-- /.item -->
+                            <div class="item">
+                                <div class="row">
+                                    <div class="small-4 columns">
+                                        <img alt="" src="assets/img/content/thumb24.jpg">
+                                    </div>
+                                    <div class="small-8 columns">
+                                        <h1>Nam felis diam, finibus sit amet arcu eu lorem ipsu</h1>
+                                        <ul class="stars">
+                                            <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                            <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                            <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                        </ul>
+                                        <a href="blog-single.html" class="btn-more">More</a>
+                                        <a href="#" class="btn-remove">Remove</a>
+                                    </div>
+                                </div>
+                            </div><!-- /.item -->
+                            <div class="item">
+                                <div class="row">
+                                    <div class="small-4 columns">
+                                        <img alt="" src="assets/img/content/thumb25.jpg">
+                                    </div>
+                                    <div class="small-8 columns">
+                                        <h1>Nam felis diam, finibus sit amet arcu eu lorem ipsu</h1>
+                                        <ul class="stars">
+                                            <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                            <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                            <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                        </ul>
+                                        <a href="blog-single.html" class="btn-more">More</a>
+                                        <a href="#" class="btn-remove">Remove</a>
+                                    </div>
+                                </div>
+                            </div><!-- /.item -->
+                        </div>
+                    </div>
+                </aside><!-- /.left-off-canvas-menu -->
+
+
+
+                <!-- ***** Right off canvas ***** -->
+                <aside class="right-off-canvas-menu">
+                    <form>
+                        <div class="row login-offcanvas">
+                            <div class="large-12 columns login-pic">
+                                <img alt="" src="assets/img/content/thumb24.jpg">
+                            </div>
+                            <div class="large-12 columns login-text">
+                                Nam felis diam, finibus sit amet arcu eu, fringilla posuere urna. Maecenas at ornare nibh. Pellentesque id maximus nisl, sit amet sagittis massa.
+                            </div>
+                            <div class="large-12 columns">
+                                <div class="row collapse">
+                                    <div class="small-9 columns">
+                                        <input type="text" placeholder="E-mail">
+                                    </div>
+                                    <div class="small-3 columns">
+                                        <span class="postfix"><i class="fa fa-user"></i></span>
+                                    </div>
+                                </div>
+                                <div class="row collapse">
+                                    <div class="small-9 columns">
+                                        <input type="password" placeholder="Password">
+                                    </div>
+                                    <div class="small-3 columns">
+                                        <span class="postfix"><i class="fa fa-lock"></i></span>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="small-12 columns">
+                                        <input id="checkbox1" class="checkbox" type="checkbox"><label for="checkbox1">Remember me</label>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="small-12 columns">
+                                        <a href="#" class="small">Forgot password?</a>
+                                    </div>
+                                </div>
+                                <button type="submit" class="button">Login</button>
+                            </div>
+                        </div>
+                    </form>
+                </aside>
+
+
+
+                <!-- ***** Header ***** -->
+                <header class="header" id="header">
+                    <div class="navigation" id="navigation">
+                        <div class="contain-to-grid">
+                            <div class="top-bar-small clearfix" id="topBarSmallMenu">
+                                <div class="row">
+                                    <div class="medium-12 columns">
+                                        <ul class="left">
+                                            <li><a href="#"><i class="flaticon-telephone46"></i> <span class="hide-for-small">(01) 800 433 633</span></a></li>
+                                            <li><a href="#"><i class="flaticon-mail59"></i> <span class="hide-for-small">info@pistaciatheme.com</span></a></li>
+                                        </ul>
+                                        <ul class="right">
+                                            <li><a href="#" class="left-off-canvas-toggle"><i class="flaticon-favourites7"></i> <span class="hide-for-small">Favourites</span></a></li>
+                                            <li><a href="page-events.html"><i class="flaticon-calendar146"></i> <span class="hide-for-small">Events</span></a></li>
+                                            <li><a href="shop-cart.html"><i class="flaticon-shopping232"></i><span class="counter">2</span>item</a></li>
+                                            <li><a href="page-login.html" class="right-off-canvas-toggle"><i class="flaticon-open3"></i> <span class="hide-for-small">Login</span></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div><!-- /.topBarSmallMenu -->
+                            <nav class="top-bar" id="topBar" data-topbar role="navigation" data-options="custom_back_text: true;back_text: Back;is_hover: true;mobile_show_parent_link: false; scrolltop : true">
+                                <ul class="title-area">
+                                    <li class="name">
+                                        <h1><a href="home1.html"><img alt="" src="assets/img/logo/logo.png"></a></h1>
+                                    </li>
+                                    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+                                </ul>
+                                <section class="top-bar-section">
+                                    <div class="top-bar-menu clearfix" id="topBarMenu">
+                                        <ul class="left">
+                                            <li class="active has-dropdown megamenu">
+                                                <a href="#">Pages</a>
+                                                <ul class="dropdown">
+                                                    <li>
+                                                        <div class="mega-content row">
+                                                            <div class="inner">
+                                                                <div class="clearfix">
+                                                                    <div class="medium-4 columns">
+                                                                        <h3><i class="fa fa-tint"></i>Home</h3>
+                                                                        <ul>
+                                                                            <li><a href="home1.html">Home</a></li>
+                                                                            <li class="active"><a href="home2.html">Home2</a></li>
+                                                                            <li><a href="home3.html">Home3</a></li>
+                                                                        </ul>
+                                                                        <h3><i class="fa fa-shopping-cart"></i>Shop</h3>
+                                                                        <ul>
+                                                                            <li><a href="shop-cart.html">Cart</a></li>
+                                                                            <li><a href="shop-checkout.html">Checkout</a></li>
+                                                                            <li><a href="shop.html">Shop</a></li>
+                                                                            <li><a href="shop-pruduct.html">Product details</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    <div class="medium-4 columns">
+                                                                        <h3><i class="fa fa-leaf"></i>Pages</h3>
+                                                                        <ul>
+                                                                            <li><a href="page-about.html">About</a></li>
+                                                                            <li><a href="page-sermons.html">Sermons</a></li>
+                                                                            <li><a href="page-contact.html">Contact</a></li>
+                                                                            <li><a href="page-events.html">Events</a></li>
+                                                                            <li><a href="page-login.html">Login</a></li>
+                                                                            <li><a href="page-404.html">Page 404</a></li>
+                                                                        </ul>
+                                                                        <h3><i class="fa fa-check"></i>Blogs</h3>
+                                                                        <ul>
+                                                                            <li><a href="blog.html">Blog</a></li>
+                                                                            <li><a href="blog-single.html">Blog single</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    <div class="medium-4 columns">
+                                                                        <h3><i class="fa fa-photo"></i>Gallery</h3>
+                                                                        <ul>
+                                                                            <li><a href="gallery-four.html">Gallery 4 columns</a></li>
+                                                                            <li><a href="gallery-three.html">Gallery 3 columns</a></li>
+                                                                            <li><a href="gallery-two.html">Gallery 2 columns</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li class="has-dropdown">
+                                                <a href="#">Gallery</a>
+                                                <ul class="dropdown">
+                                                    <li><a href="gallery-four.html">4 columns</a></li>
+                                                    <li><a href="gallery-three.html">3 columns</a></li>
+                                                    <li><a href="gallery-two.html">2 columns</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="has-dropdown">
+                                                <a href="#">Blog</a>
+                                                <ul class="dropdown">
+                                                    <li><a href="blog.html">Blog</a></li>
+                                                    <li><a href="blog-single.html">Blog single</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="has-dropdown">
+                                                <a href="#">Shop</a>
+                                                <ul class="dropdown">
+                                                    <li><a href="shop.html">Shop</a></li>
+                                                    <li><a href="shop-pruduct.html">Product details</a></li>
+                                                    <li><a href="shop-cart.html">Cart</a></li>
+                                                    <li><a href="shop-checkout.html">Checkout</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="page-sermons.html">Sermons</a></li>
+                                            <li><a href="page-contact.html">Contact</a></li>
+                                            <li class="mobile-search">
+                                                <div class="row">
+                                                    <div class="small-12 columns">
+                                                        <form>
+                                                            <div class="row collapse">
+                                                                <div class="small-10 columns">
+                                                                    <input type="text" placeholder="Search...">
+                                                                </div>
+                                                                <div class="small-2 columns">
+                                                                    <a href="#" class="button expand">
+                                                                        <i class="fa fa-search"></i>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li class="desktop-search">
+                                                <a class="btn-ps-modal" data-ps-modal-id="#searchModal">
+                                                    <i class="fa fa-search"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div><!-- /.topBarMenu -->
+                                </section><!-- /.top-bar-section -->
+                            </nav><!-- /nav -->
+                        </div><!-- /.fixed -->
+                    </div><!-- /#navigation -->
+                </header><!-- /#header -->
+
+
+
+                <!-- ***** Celebrate section ***** -->
+                <section class="celebrate-section" id="celebrateSection">
+                    <div class="inner">
+                        <div class="row">
+                            <div class="large-6 large-offset-3 columns">
+                                <div class="fade-effect-onscroll">
+                                    <h1>Celebrate!</h1>
+                                    <h2>He is risen</h2>
+                                    <p>The angel said to the women, Do not be afraid, for I know that you are looking for Jesus, who was crucified. He is not here he has risen, just as he said. Come and see the place where he lay. Then go quickly and tell his disciples: He has risen from the dead and is going ahead of you into Galilee. There you will see him. Now I have told you.</p>
+                                    <div class="text-center button-group">
+                                        <a href="../themeforest.net/user/pistaciatheme/index.htm" target="_blank" class="button btn-transparent">Buy template</a>
+                                        <a href="../themeforest.net/user/pistaciatheme/index.htm" target="_blank" class="button btn-dark">Go to Envato</a>
+                                    </div>
+                                </div>
+                            </div><!-- /.columns -->
+                        </div><!-- /.row -->
+                        <span class="cross-carry"></span>
+                    </div><!-- /.inner -->
+                </section><!-- /#celebrateSection -->
+
+
+
+                <!-- ***** Upcoming event section ***** -->
+                <section class="upcoming-event-section" id="upcomingEventSection">
+                    <div class="inner">
+                        <div class="row">
+                            <div class="medium-3 columns">
+                                <h3><i class="flaticon-calendar146"></i>Next</h3>
+                                <h4>Upcoming Event</h4>
+                            </div>
+                            <div class="medium-3 columns">
+                                <h3>Sunday sermon</h3>
+                                <h4>10:00 July 14, 2015</h4>
+                            </div>
+                            <div class="medium-4 columns">
+                                <div class="timer-count-down" id="upcomingEventCountDown"></div>
+                            </div>
+                            <div class="medium-2 columns">
+                                <a href="#" class="button">All Events</a>
+                            </div>
+                        </div>
+                    </div>
+                </section><!-- /#upcomingEventSection -->
+
+
+
+                <!-- ***** Dark line section ***** -->
+                <section class="dark-line-section with-triangle">
+                    <div class="inner animated" data-animation="fadeIn" data-animation-delay="200">
+                        <div class="row">
+                            <div class="small-12 columns">
+                                <h1 class="title">At vero eos et accusam et justo duo</h1>
+                                <p class="content-text">Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr</p>
+                                <a href="#" class="button">More info</a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+
+
+                <!-- ***** Testimony section ***** -->
+                <section class="testimony-section" id="testimonySection">
+                    <div class="inner animated" data-animation="fadeIn" data-animation-delay="0">
+                        <div class="row">
+                            <div class="carousel-wrapper">
+                                <div class="owl-carousel testimony-carousel" id="testimonyCarousel">
+                                    <div class="item quote-wrapper">
+                                        <blockquote class="quote-content">
+                                            <div class="quote-text">For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope...</div>
+                                            <span class="author">Jeremiah 29:11</span>
+                                            <span class="quote-decor"><i class="fa fa-quote-right"></i></span>
+                                        </blockquote>
+                                        <div class="clearfix">
+                                            <div class="photo">
+                                                <img alt="" src="assets/img/content/thumb30.jpg">
+                                            </div>
+                                            <div class="people">
+                                                <div class="name">Medhros Amarmiel</div>
+                                                <div class="years">23 years</div>
+                                                <a href="#" class="button">more</a>
+                                            </div>
+                                        </div>
+                                    </div><!-- .item -->
+                                    <div class="item quote-wrapper">
+                                        <blockquote class="quote-content">
+                                            <div class="quote-text">For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope...</div>
+                                            <span class="author">Jeremiah 29:11</span>
+                                            <span class="quote-decor"><i class="fa fa-quote-right"></i></span>
+                                        </blockquote>
+                                        <div class="clearfix">
+                                            <div class="photo">
+                                                <img alt="" src="assets/img/content/thumb20.jpg">
+                                            </div>
+                                            <div class="people">
+                                                <div class="name">Medhros Amarmiel</div>
+                                                <div class="years">23 years</div>
+                                                <a href="#" class="button">more</a>
+                                            </div>
+                                        </div>
+                                    </div><!-- .item -->
+                                    <div class="item quote-wrapper">
+                                        <blockquote class="quote-content">
+                                            <div class="quote-text">For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope...</div>
+                                            <span class="author">Jeremiah 29:11</span>
+                                            <span class="quote-decor"><i class="fa fa-quote-right"></i></span>
+                                        </blockquote>
+                                        <div class="clearfix">
+                                            <div class="photo">
+                                                <img alt="" src="assets/img/content/thumb21.jpg">
+                                            </div>
+                                            <div class="people">
+                                                <div class="name">Medhros Amarmiel</div>
+                                                <div class="years">23 years</div>
+                                                <a href="#" class="button">more</a>
+                                            </div>
+                                        </div>
+                                    </div><!-- .item -->
+                                    <div class="item quote-wrapper">
+                                        <blockquote class="quote-content">
+                                            <div class="quote-text">For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope...</div>
+                                            <span class="author">Jeremiah 29:11</span>
+                                            <span class="quote-decor"><i class="fa fa-quote-right"></i></span>
+                                        </blockquote>
+                                        <div class="clearfix">
+                                            <div class="photo">
+                                                <img alt="" src="assets/img/content/thumb25.jpg">
+                                            </div>
+                                            <div class="people">
+                                                <div class="name">Medhros Amarmiel</div>
+                                                <div class="years">23 years</div>
+                                                <a href="#" class="button">more</a>
+                                            </div>
+                                        </div>
+                                    </div><!-- .item -->
+                                </div><!-- .owl-carousel -->
+                            </div><!-- .carousel-wrapper -->
+                        </div><!-- .row -->
+                    </div><!-- .inner -->
+                </section><!-- .testimony-section -->
+
+
+
+                <!-- ***** Parallax section ***** -->
+                <section class="parallax-section" id="subscribeNewsletter">
+                    <div class="inner animated" data-animation="fadeIn" data-animation-delay="0">
+                        <div class="row">
+                            <div class="medium-8 medium-offset-2 columns text-center">
+                                <h1>Newsletter subscribe</h1>
+                                <p>Nullam sit amet luctus ante, non faucibus massa. In euismod aliquam interdum. Maecenas varius aliquam arcu et convallis. Vivamus luctus in erat quis elementum. Vestibulum eleifend, lacus a blandit tincidunt, nunc libero facilisis nisl, vitae dignissim eros lectus eu neque.</p>
+                                <form>
+                                    <div class="row">
+                                        <div class="large-12 columns">
+                                            <div class="row collapse">
+                                                <div class="small-9 columns">
+                                                    <input type="text" placeholder="info@domain.me">
+                                                </div>
+                                                <div class="small-3 columns">
+                                                    <a href="#" class="button postfix"><i class="fa fa-paper-plane"></i> <span class="hidden-for-small-only">Subscribe</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div><!-- .columns -->
+                        </div><!-- .row -->
+                    </div><!-- .inner -->
+                </section><!-- .parallax-section -->
+
+
+
+                <!-- ***** Latests section ***** -->
+                <section class="latests-section">
+                    <div class="inner">
+                        <div class="row">
+                            <div class="medium-5 columns latest-news">
+                                <div class="ws-title left-line">
+                                    <h1 class="title">Latest news <a href="#" class="button">All posts</a></h1>
+                                </div>
+                                <div class="news-items row">
+                                    <div class="item clearfix">
+                                        <div class="medium-5 columns">
+                                            <img alt="" src="assets/img/content/thumb9.jpg">
+                                        </div>
+                                        <div class="medium-7 columns">
+                                            <h1 class="title">Pistacia church post title</h1>
+                                            <span class="date"><i class="fa fa-calendar"></i> on July 23, 2015</span>
+                                            <ul class="small-block-grid-2">
+                                                <li>
+                                                    <ul class="socials">
+                                                        <li><a href="#" class="icon"><i class="fa fa-facebook-official"></i></a></li>
+                                                        <li><a href="#" class="icon"><i class="fa fa-twitter-square"></i></a></li>
+                                                        <li><a href="#" class="icon"><i class="fa fa-youtube-square"></i></a></li>
+                                                        <li><a href="#" class="icon"><i class="fa fa-pinterest-square"></i></a></li>
+                                                        <li><a href="#" class="icon"><i class="fa fa-skype"></i></a></li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <ul class="stars">
+                                                        <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                                        <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                                        <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                                        <li><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                                        <li><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                            <p>Donec consequat aliquam tincidunt. Aliquam pretium lacus dolor. Phasellus ipsum nunc, pretium vel eleifend vitae, tincidunt et turpis. Nam tempus turpis vitae erat molestie, ac semper dolor bibendum ....</p>
+                                            <a href="#" class="button">More</a>
+                                        </div>
+                                    </div><!-- /.item -->
+                                    <div class="item clearfix">
+                                        <div class="medium-5 columns">
+                                            <img alt="" src="assets/img/content/thumb12.jpg">
+                                        </div>
+                                        <div class="medium-7 columns">
+                                            <h1 class="title">Pistacia church post title</h1>
+                                            <span class="date"><i class="fa fa-calendar"></i> on July 23, 2015</span>
+                                            <ul class="small-block-grid-2">
+                                                <li>
+                                                    <ul class="socials">
+                                                        <li><a href="#" class="icon"><i class="fa fa-facebook-official"></i></a></li>
+                                                        <li><a href="#" class="icon"><i class="fa fa-twitter-square"></i></a></li>
+                                                        <li><a href="#" class="icon"><i class="fa fa-youtube-square"></i></a></li>
+                                                        <li><a href="#" class="icon"><i class="fa fa-pinterest-square"></i></a></li>
+                                                        <li><a href="#" class="icon"><i class="fa fa-skype"></i></a></li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <ul class="stars">
+                                                        <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                                        <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                                        <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                                        <li><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                                        <li><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                            <p>Donec consequat aliquam tincidunt. Aliquam pretium lacus dolor. Phasellus ipsum nunc, pretium vel eleifend vitae, tincidunt et turpis. Nam tempus turpis vitae erat molestie, ac semper dolor bibendum ....</p>
+                                            <a href="#" class="button">More</a>
+                                        </div>
+                                    </div><!-- /.item -->
+                                </div><!-- /.news-items -->
+                            </div><!-- /.latest-news -->
+                            <div class="medium-4 columns latest-sermons">
+                                <div class="ws-title left-line">
+                                    <h1 class="title">Latest sermons <a href="#" class="button">All posts</a></h1>
+                                </div>
+                                <div class="sermons-items">
+                                    <div class="item clearfix">
+                                        <div class="small-2 columns">
+                                            <span class="day">12</span>
+                                            <span class="month">July</span>
+                                        </div>
+                                        <div class="small-7 columns">
+                                            <h1>There was a man sent from God</h1>
+                                            <span class="date">Sunday | 10:00 am</span>
+                                            <a href="#" class="button btn-white">more details</a>
+                                        </div>
+                                        <div class="small-3 columns">
+                                            <ul class="icons">
+                                                <li><a href="#"><i class="flaticon-speaker100"></i></a></li>
+                                                <li><a href="#"><i class="flaticon-save"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </div><!-- /.item -->
+                                    <div class="item clearfix">
+                                        <div class="small-2 columns">
+                                            <span class="day">12</span>
+                                            <span class="month">July</span>
+                                        </div>
+                                        <div class="small-7 columns">
+                                            <h1>There was a man sent from God</h1>
+                                            <span class="date">Sunday | 10:00 am</span>
+                                            <a href="#" class="button btn-white">more details</a>
+                                        </div>
+                                        <div class="small-3 columns">
+                                            <ul class="icons">
+                                                <li><a href="#"><i class="flaticon-speaker100"></i></a></li>
+                                                <li><a href="#"><i class="flaticon-save"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </div><!-- /.item -->
+                                    <div class="item clearfix">
+                                        <div class="small-2 columns">
+                                            <span class="day">12</span>
+                                            <span class="month">July</span>
+                                        </div>
+                                        <div class="small-7 columns">
+                                            <h1>There was a man sent from God</h1>
+                                            <span class="date">Sunday | 10:00 am</span>
+                                            <a href="#" class="button btn-white">more details</a>
+                                        </div>
+                                        <div class="small-3 columns">
+                                            <ul class="icons">
+                                                <li><a href="#"><i class="flaticon-speaker100"></i></a></li>
+                                                <li><a href="#"><i class="flaticon-save"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </div><!-- /.item -->
+                                    <div class="item clearfix">
+                                        <div class="small-2 columns">
+                                            <span class="day">12</span>
+                                            <span class="month">July</span>
+                                        </div>
+                                        <div class="small-7 columns">
+                                            <h1>There was a man sent from God</h1>
+                                            <span class="date">Sunday | 10:00 am</span>
+                                            <a href="#" class="button btn-white">more details</a>
+                                        </div>
+                                        <div class="small-3 columns">
+                                            <ul class="icons">
+                                                <li><a href="#"><i class="flaticon-speaker100"></i></a></li>
+                                                <li><a href="#"><i class="flaticon-save"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </div><!-- /.item -->
+                                </div><!-- /.sermons-items -->
+                            </div><!-- /.latest-sermons -->
+                            <div class="medium-3 columns most-commented">
+                                <div class="ws-title left-line">
+                                    <h1 class="title">Most commented</h1>
+                                </div>
+                                <div class="most-commneted-items">
+                                    <div class="item clearfix">
+                                        <img alt="" src="assets/img/content/thumb10.jpg">
+                                        <h1 class="title">Pistacia church post title</h1>
+                                        <span class="date"><i class="fa fa-calendar"></i> on July 23, 2015</span>
+                                        <ul class="small-block-grid-2">
+                                            <li>
+                                                <ul class="socials">
+                                                    <li><a href="#" class="icon"><i class="fa fa-facebook-official"></i></a></li>
+                                                    <li><a href="#" class="icon"><i class="fa fa-twitter-square"></i></a></li>
+                                                    <li><a href="#" class="icon"><i class="fa fa-youtube-square"></i></a></li>
+                                                    <li><a href="#" class="icon"><i class="fa fa-pinterest-square"></i></a></li>
+                                                    <li><a href="#" class="icon"><i class="fa fa-skype"></i></a></li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <ul class="stars">
+                                                    <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                                    <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                                    <li class="active"><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                                    <li><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                                    <li><a href="#" class="icon"><i class="fa fa-star"></i></a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhmauris quam....</p>
+                                        <a href="#" class="button">More</a>
+                                    </div><!-- /.item -->
+                                </div><!-- /.most-commented-items -->
+                            </div><!-- /.most-commented -->
+                        </div><!-- /.row -->
+                    </div><!-- /.inner -->
+                </section><!-- /.latest-section -->
+
+
+
+                <!-- ***** Partners section ***** -->
+                <section class="partners-section">
+                    <div class="inner">
+                        <div class="row">
+                            <div class="medium-12 columns">
+                                <div class="ws-title left-line">
+                                    <h1 class="title">My partners</h1>
+                                </div>
+                                <div class="carousel-wrapper">
+                                    <div class="owl-carousel logo-carousel">
+                                        <div class="item">
+                                            <img alt="" src="assets/img/content/low19.png">
+                                        </div><!-- .item -->
+                                        <div class="item">
+                                            <img alt="" src="assets/img/content/low20.png">
+                                        </div><!-- .item -->
+                                        <div class="item">
+                                            <img alt="" src="assets/img/content/low21.png">
+                                        </div><!-- .item -->
+                                        <div class="item">
+                                            <img alt="" src="assets/img/content/low22.png">
+                                        </div><!-- .item -->
+                                        <div class="item">
+                                            <img alt="" src="assets/img/content/low23.png">
+                                        </div><!-- .item -->
+                                        <div class="item">
+                                            <img alt="" src="assets/img/content/low24.png">
+                                        </div><!-- .item -->
+                                        <div class="item">
+                                            <img alt="" src="assets/img/content/low25.png">
+                                        </div><!-- .item -->
+                                        <div class="item">
+                                            <img alt="" src="assets/img/content/low27.png">
+                                        </div><!-- .item -->
+                                    </div><!-- .owl-carousel -->
+                                </div><!-- .carousel-wrapper -->
+                            </div><!-- .medium-12 -->
+                        </div><!-- .row -->
+                    </div><!-- .inner -->
+                </section><!-- .partners -->
+
+
+
+                <!-- ***** Footer section ***** -->
+                <footer class="footer-section" id="footerSection">
+                    <div class="content">
+                        <div class="inner">
+                            <div class="row">
+                                <div class="large-3 columns">
+                                    <img alt="" src="assets/img/elements/cross.png">
+                                </div><!-- /.columns -->
+                                <div class="large-3 columns info-box">
+
+                                    <h1>About Pistacia Church</h1>
+                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed</p>
+
+                                    <h1>Our church on Twitter</h1>
+                                    <ul class="twitter-roll">
+                                        <li><i class="fa fa-twitter-square"></i> <a href="#">@pistaciachurch</a> stet clita kasd gubergren, no sea takimata July. 18, 2015 nulla convallis egestas rhmauris quam</li>
+                                        <li><i class="fa fa-twitter-square"></i> <a href="#">@pistaciachurch</a> consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam July. 18, 2015 Nulla convallis egestas rhmauris quam</li>
+                                    </ul>
+
+                                </div><!-- /.columns -->
+                                <div class="large-3 columns blogroll-box">
+                                    <h1>Blogroll</h1>
+                                    <ul class="list-arrow">
+                                        <li><a href="#">irem ipsum dolor sit</a></li>
+                                        <li><a href="#">amet consetetur</a></li>
+                                        <li><a href="#">elitr sed diam nonumy</a></li>
+                                        <li><a href="#">eirmod tempor invidunt</a></li>
+                                        <li><a href="#">ut labore et dolore</a></li>
+                                        <li><a href="#">orem ipsum dolor sit</a></li>
+                                        <li><a href="#">amet consetetur</a></li>
+                                        <li><a href="#">irem ipsum dolor sit</a></li>
+                                    </ul>
+                                </div><!-- /.columns -->
+                                <div class="large-3 columns contact-box">
+                                    <img alt="" src="assets/img/logo/logo-white.png">
+                                    <ul class="contact">
+                                        <li>753 A 4th St, NY, USA</li>
+                                        <li>+5 432-234-1234</li>
+                                        <li>me@medomain.com</li>
+                                    </ul>
+                                    <div class="text-center">
+                                        <a href="#" class="button btn-dark">Contact us</a>
+                                    </div>
+                                    <ul class="socials">
+                                        <li><a href="#" class="icon"><i class="fa fa-facebook-official"></i></a></li>
+                                        <li><a href="#" class="icon"><i class="fa fa-twitter-square"></i></a></li>
+                                        <li><a href="#" class="icon"><i class="fa fa-youtube-square"></i></a></li>
+                                        <li><a href="#" class="icon"><i class="fa fa-pinterest-square"></i></a></li>
+                                        <li><a href="#" class="icon"><i class="fa fa-skype"></i></a></li>
+                                    </ul>
+                                </div><!-- /.columns -->
+                            </div><!-- /.row -->
+                        </div><!-- /.inner -->
+                    </div><!-- /.content -->
+                    <div class="copyright">
+                        <div class="inner">
+                            <div class="row">
+                                <div class="medium-10 columns">
+                                    Hope - Church Responsive HTML5 Template by <a href="../themeforest.net/item/pistacia-chef-food-html5-template/10800108/index.htm">Pistaciatheme</a>
+                                </div>
+                                <div class="medium-2 columns">
+                                    <a href="pageTop/index.htm" class="scroll-to"><i class="fa fa-angle-up"></i>Page top</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fixed-wrapper">
+                        <div class="row">
+                            <div class="medium-2 large-2 large-push-4 columns">
+                                <img alt="" src="assets/img/content/thumb22.jpg">
+                            </div>
+                            <div class="medium-10 large-4 large-pull-2 columns">
+                                <div class="thanx-box">
+                                    <h1>Thank You</h1>
+                                    <h2>for visiting</h2>
+                                    <p><span class="strong">Contact me</span> accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </footer><!-- #footerSection -->
+
+
+
+                <!-- ***** Search modals ***** -->
+                <div class="ps-modal-overlay" id="searchModal">
+                    <a class="overlay-close"></a>
+                    <div class="search row">
+                        <div class="large-12 columns">
+                            <form>
+                                <div class="row collapse">
+                                    <div class="small-8 columns">
+                                        <input type="text" placeholder="Search...">
+                                    </div>
+                                    <div class="small-4 columns">
+                                        <a href="#" class="button"><i class="fa fa-search"></i></a>
+                                    </div>
+                                </div><!-- /.row -->
+                            </form>
+                        </div><!-- /.large-12 -->
+                    </div><!-- /.search -->
+                    <div class="recommends row">
+                        <div class="large-12 columns">
+                            <div class="row">
+                                <div class="large-4 columns">
+                                    <h4>People</h4>
+                                    <ul class="items">
+                                        <li><a href="#"><img alt="" src="assets/img/content/thumb30.jpg" class="img-circle">Guy Wilkins</a></li>
+                                        <li><a href="#"><img alt="" src="assets/img/content/thumb29.jpg" class="img-circle">Larry Reed</a></li>
+                                        <li><a href="#"><img alt="" src="assets/img/content/thumb28.jpg" class="img-circle">Roxanne Holland</a></li>
+                                        <li><a href="#"><img alt="" src="assets/img/content/thumb27.jpg" class="img-circle">Bridget Kennedy</a></li>
+                                        <li><a href="#"><img alt="" src="assets/img/content/thumb26.jpg" class="img-circle">Sally Mendoza</a></li>
+                                    </ul><!-- /.items -->
+                                </div><!-- /.large-4 -->
+                                <div class="large-4 columns">
+                                    <h4>Sermons</h4>
+                                    <ul class="items">
+                                        <li><a href="#"><img alt="" src="assets/img/content/thumb30.jpg" class="img-thumb">Guy Wilkins</a></li>
+                                        <li><a href="#"><img alt="" src="assets/img/content/thumb29.jpg" class="img-thumb">Larry Reed</a></li>
+                                        <li><a href="#"><img alt="" src="assets/img/content/thumb28.jpg" class="img-thumb">Roxanne Holland</a></li>
+                                        <li><a href="#"><img alt="" src="assets/img/content/thumb27.jpg" class="img-thumb">Bridget Kennedy</a></li>
+                                        <li><a href="#"><img alt="" src="assets/img/content/thumb26.jpg" class="img-thumb">Sally Mendoza</a></li>
+                                    </ul><!-- /.items -->
+                                </div><!-- /.large-4 -->
+                                <div class="large-4 columns">
+                                    <h4>Recent</h4>
+                                    <ul class="items">
+                                        <li><a href="#"><img alt="" src="assets/img/content/thumb30.jpg" class="img-thumbe">Guy Wilkins</a></li>
+                                        <li><a href="#"><img alt="" src="assets/img/content/thumb29.jpg" class="img-thumb">Larry Reed</a></li>
+                                        <li><a href="#"><img alt="" src="assets/img/content/thumb28.jpg" class="img-thumb">Roxanne Holland</a></li>
+                                        <li><a href="#"><img alt="" src="assets/img/content/thumb27.jpg" class="img-thumb">Bridget Kennedy</a></li>
+                                        <li><a href="#"><img alt="" src="assets/img/content/thumb26.jpg" class="img-thumb">Sally Mendoza</a></li>
+                                    </ul><!-- /.items -->
+                                </div><!-- /.large-4 -->
+                            </div><!-- /.row -->
+                        </div><!-- /.large-12 -->
+                    </div><!-- /.recommends -->
+                </div><!-- /#searchModal -->
+
+                <a class="exit-off-canvas"></a>
+
+            </div>
+        </div>
+
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+        <script src="assets/js/html5shiv.js"></script>
+        <script src="assets/js/respond.js"></script>
+        <![endif]-->
+
+        <script src="assets/js/modernizr.js"></script>
+        <script src="assets/js/jquery.js"></script>
+        <script src="assets/js/jquery.cookie.js"></script>
+        <script src="assets/js/foundation.js"></script>
+        <script src="assets/js/classie.js"></script>
+        <script src="assets/js/owl.carousel.js"></script>
+        <script src="assets/js/jquery.validate.js"></script>
+        <script src="assets/js/jquery.countdown.js"></script>
+        <script src="assets/js/jquery.counterup.js"></script>
+        <script src="assets/js/jquery.scrollTo.js"></script>
+        <script src="assets/js/parallax.js"></script>
+        <script src="assets/js/jquery.waypoints.js"></script>
+        <script src="assets/js/jquery.flexslider.js"></script>
+
+        <!-- Application main -->
+        <script src="assets/js/application.js"></script>
+
+        <script>
+            APP.init();
+            APP.initPlugins();
+        </script>
+
+    </body>
+</html>

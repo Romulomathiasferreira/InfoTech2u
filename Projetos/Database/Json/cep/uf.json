@@ -1,0 +1,10 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'db_9d87ac_address'
+
+// db_9d87ac_address.uf
+
+[{"UF":"AC","Nome":"Acre","Cep1":"69900","Cep2":"69999"}, {"UF":"AL","Nome":"Alagoas","Cep1":"57000","Cep2":"57999"}, {"UF":"AM","Nome":"Amazonas","Cep1":"69000","Cep2":"69299"}, {"UF":"AP","Nome":"Amap\u00e1","Cep1":"68900","Cep2":"68999"}, {"UF":"BA","Nome":"Bahia","Cep1":"40000","Cep2":"48999"}, {"UF":"CE","Nome":"Cear\u00e1","Cep1":"60000","Cep2":"63999"}, {"UF":"DF","Nome":"Distrito Federal","Cep1":"70000","Cep2":"72799"}, {"UF":"ES","Nome":"Esp\u00edrito Santo","Cep1":"29000","Cep2":"29999"}, {"UF":"GO","Nome":"Goi\u00e1s","Cep1":"72800","Cep2":"72999"}, {"UF":"MA","Nome":"Maranh\u00e3o","Cep1":"65000","Cep2":"65999"}, {"UF":"MG","Nome":"Minas Gerais","Cep1":"30000","Cep2":"39999"}, {"UF":"MS","Nome":"Mato Grosso do Sul","Cep1":"79000","Cep2":"79999"}, {"UF":"MT","Nome":"Mato Grosso","Cep1":"78000","Cep2":"78899"}, {"UF":"PA","Nome":"Par\u00e1","Cep1":"66000","Cep2":"68899"}, {"UF":"PB","Nome":"Para\u00edba","Cep1":"58000","Cep2":"58999"}, {"UF":"PE","Nome":"Pernambuco","Cep1":"50000","Cep2":"56999"}, {"UF":"PI","Nome":"Piau\u00ed","Cep1":"64000","Cep2":"64999"}, {"UF":"PR","Nome":"Paran\u00e1","Cep1":"80000","Cep2":"87999"}, {"UF":"RJ","Nome":"Rio de Janeiro","Cep1":"20000","Cep2":"28999"}, {"UF":"RN","Nome":"Rio Grande do Norte","Cep1":"59000","Cep2":"59999"}, {"UF":"RO","Nome":"Rond\u00f4nia","Cep1":"78900","Cep2":"78999"}, {"UF":"RR","Nome":"Roraima","Cep1":"69300","Cep2":"69399"}, {"UF":"RS","Nome":"Rio Grande do Sul","Cep1":"90000","Cep2":"99999"}, {"UF":"SC","Nome":"Santa Catarina","Cep1":"88000","Cep2":"89999"}, {"UF":"SE","Nome":"Sergipe","Cep1":"49000","Cep2":"49999"}, {"UF":"SP","Nome":"S\u00e3o Paulo","Cep1":"01000","Cep2":"19999"}, {"UF":"TO","Nome":"Tocantins","Cep1":"77000","Cep2":"77999"}]

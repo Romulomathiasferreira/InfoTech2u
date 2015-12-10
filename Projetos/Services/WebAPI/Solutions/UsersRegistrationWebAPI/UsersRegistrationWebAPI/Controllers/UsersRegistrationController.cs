@@ -1,5 +1,4 @@
-﻿using HtmlAgilityPack;
-using Newtonsoft.Json.Linq;
+﻿using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -9,59 +8,36 @@ using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Web.Http;
-using UsersRegistrationWebAPI.Models;
-
-
+using UsersRegistrationWebAPI.dao;
+using UsersRegistrationWebAPI.Entidades;
 
 namespace UsersRegistrationWebAPI.Controllers
 {
     public class UsersRegistrationController : ApiController
     {
-        private string respostaCryptography;
+        private UserDAO userDAO;
+          
+        public UsersRegistrationController (UserDAO userDAO) {
+            this.userDAO = userDAO;
+        }
         public HttpResponseMessage Get(string idUser, string emailUser, string passwordUser, string userRegistration, string statusUser)
         {
             try
             {
-                
-                
-                HtmlWeb web = new HtmlWeb();
-                HtmlAgilityPack.HtmlDocument htmldoc = web.Load("https://www.bibliaonline.com.br/nvi/gn/6");
-                htmldoc.OptionFixNestedTags = true;
-                var navigator = (HtmlNodeNavigator)htmldoc.CreateNavigator();
-                string xpath = "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/article[1]/p[1]/span[1]";
-                string val = navigator.SelectSingleNode(xpath).Value;
-                
-
-               /* HtmlWeb web = new HtmlWeb();
-                HtmlDocument doc = web.Load("https://www.bibliaonline.com.br/nvi/gn/6");
-                int count = 0;
-                string data = "";
-                var output = doc.DocumentNode.SelectNodes("//div[@id='ChapterView']//span");
-
-                foreach (var item in output)
-                {
-                    count++;
-                    if (count == output.Count)
-                    {
-                        //data = item.Attributes["href"].Value;
-                        data = data + item.InnerText[count].ToString();
-                    }
-                }*/
-
                 User user = new User();
                 DateTime now = DateTime.Now;
                 
                 #region Atribuir/valorizar modelo
                 if (!String.IsNullOrWhiteSpace(idUser))
-                    user.idUser = Convert.ToInt32(idUser);
+                    user.IdUser = Convert.ToInt32(idUser);
 
                 if (!String.IsNullOrWhiteSpace(emailUser))
-                    user.emailUser = emailUser;
+                    user.EmailUser = emailUser;
 
                 if (!String.IsNullOrWhiteSpace(passwordUser))
                 {
-                    //var request = WebRequest.Create("http://localhost:53164/api/Encrypt/senhaTeste");
-                    var request = WebRequest.Create("https://www.bibliaonline.com.br/acf/rm/2/2");
+                    var request = WebRequest.Create("http://localhost:53164/api/Encrypt/senhaTeste");
+                    
                     string passwordUserEncrypt;
                     var response = (HttpWebResponse)request.GetResponse();
 
@@ -71,9 +47,8 @@ namespace UsersRegistrationWebAPI.Controllers
                     }
 
                     JToken token = JObject.Parse(passwordUserEncrypt);
-                    user.passwordUser = (string)token.SelectToken("Retorno");
+                    user.PasswordUser = (string)token.SelectToken("Retorno");
                 }
-
                 #endregion
 
                 return Request.CreateResponse(HttpStatusCode.OK, user); ;
@@ -92,23 +67,25 @@ namespace UsersRegistrationWebAPI.Controllers
             {
                 User user = new User();
                 DateTime now = DateTime.Now;
+                
                 #region Atribuir/valorizar modelo
                 if (!String.IsNullOrWhiteSpace(idUser))
-                    user.idUser = Convert.ToInt32(idUser);
+                    user.IdUser = Convert.ToInt32(idUser);
 
                 if (!String.IsNullOrWhiteSpace(emailUser))
-                    user.emailUser = emailUser;
+                    user.EmailUser = emailUser;
 
                 if (!String.IsNullOrWhiteSpace(passwordUser))
-                    user.passwordUser = passwordUser;
+                    user.PasswordUser = passwordUser;
 
-                user.registrationDateUser = now;
+                user.RegistrationDateUser = now;
 
                 if (!string.IsNullOrWhiteSpace(userRegistration))
-                    user.registrationUserUser = Convert.ToInt32(userRegistration);
+                    user.RegistrationUserUser = Convert.ToInt32(userRegistration);
 
                 #endregion
 
+                userDAO.Adiciona(user);
 
 
                 return Request.CreateResponse(HttpStatusCode.OK, user); ;
@@ -129,18 +106,18 @@ namespace UsersRegistrationWebAPI.Controllers
                 DateTime now = DateTime.Now;
                 #region Atribuir/valorizar modelo
                 if (!String.IsNullOrWhiteSpace(idUser))
-                    user.idUser = Convert.ToInt32(idUser);
+                    user.IdUser = Convert.ToInt32(idUser);
 
                 if (!String.IsNullOrWhiteSpace(emailUser))
-                    user.emailUser = emailUser;
+                    user.EmailUser = emailUser;
 
                 if (!String.IsNullOrWhiteSpace(passwordUser))
-                    user.passwordUser = passwordUser;
+                    user.PasswordUser = passwordUser;
 
-                user.registrationDateUser = now;
+                user.RegistrationDateUser = now;
 
                 if (!String.IsNullOrWhiteSpace(userRegistration))
-                    user.changeUserUser = Convert.ToInt32(userRegistration);
+                    user.ChangeUserUser = Convert.ToInt32(userRegistration);
                 #endregion
 
 
@@ -163,12 +140,12 @@ namespace UsersRegistrationWebAPI.Controllers
                 DateTime now = DateTime.Now;
                 #region Atribuir/valorizar modelo
                 if (!String.IsNullOrWhiteSpace(idUser))
-                    user.idUser = Convert.ToInt32(idUser);
+                    user.IdUser = Convert.ToInt32(idUser);
 
-                user.registrationDateUser = now;
+                user.RegistrationDateUser = now;
 
                 if (!String.IsNullOrWhiteSpace(userRegistration))
-                    user.changeUserUser = Convert.ToInt32(userRegistration);
+                    user.ChangeUserUser = Convert.ToInt32(userRegistration);
                 #endregion
 
 
